@@ -1,0 +1,10 @@
+.each-skill-container {
+  display: flex;
+  margin-bottom: 30px;
+  color: white;
+  margin-right: 60px;
+}
+.company-logo {
+  width: 70px;
+  height: 80px;
+}

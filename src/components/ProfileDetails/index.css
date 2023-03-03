@@ -1,0 +1,15 @@
+.profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 300px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.failure-container {
+  padding: 20px;
+}
+.heading {
+  color: blueviolet;
+  font-size: 24px;
+}

@@ -1,0 +1,20 @@
+.horizontal-line {
+  border-bottom: 1px solid white;
+  width: 300px;
+}
+.employment-type-container {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: flex-start;
+}
+.employment-type-element {
+  display: flex;
+  margin-bottom: 5px;
+}
+.label-element {
+  margin-left: 10px;
+}
+.head {
+  font-size: 18px;
+}
